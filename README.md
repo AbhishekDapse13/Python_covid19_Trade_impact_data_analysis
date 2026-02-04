@@ -2,7 +2,7 @@
 
 Analyzing how COVID-19 affected global trade trends using Python, Pandas, and Matplotlib.
 
-![Overall Trade Trend](overall_trade_trend.png)
+![Overall Trade Trend]
 
 ---
 
@@ -42,12 +42,7 @@ Using daily trade values, we identify:
 - 🍎 **Commodities:** Certain commodities (e.g., food, medical supplies) showed unique patterns.  
 - 🌍 **Country Analysis:** Different countries experienced varied impacts depending on trade dependencies.  
 
-![Top Commodities Affected](top_commodities_affected.png)  
-![Transport Mode Analysis](transport_mode_analysis.png)  
+![Top Commodities Affected]  
+![Transport Mode Analysis]
 
----
-
-## ⚙️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AbhishekDapse13/Python-Covid19-Trade-Impact-Data-Analysis.git
+--
